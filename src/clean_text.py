@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 #
-# Module that handles molten salt properties for neutronic simulations
+# Module that handles manual pre-cleaning of OCR'd texts
+# from https://github.com/openmsr/msr-archive/tree/master/ocr
 #
 # Ondrej Chvala, ochvala@utexas.edu
 # 2023-10-05
