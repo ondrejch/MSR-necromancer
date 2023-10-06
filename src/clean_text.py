@@ -36,8 +36,8 @@ class PreCleanText(object):
         if not os.path.isdir(d_out):
             raise ValueError("OOutput dir does not exist: ", d_out)
 
-        self.dir_in: str = d_in  # Input directory
-        self.dir_out: str = d_out  # Output dir
+        self.dir_in: str = d_in     # Input directory
+        self.dir_out: str = d_out   # Output dir
         self.is_remove_special_chars: bool = True  # Remove spacial characters?
         self.is_remove_capitalized_lines: bool = True  # Remove capitalized lines?
         self.is_print_rejects: bool = True  # Print rejects to stdout
@@ -45,8 +45,8 @@ class PreCleanText(object):
         self.record_separator: str = '\n#-------------------------------#\n'
         self.remove_strings = ['NUCLEAR APPLICATIONS & TECHNOLOGY', '"', "'", ';', '\\*', '\\?', '”', '’', '‘', '®', '|']
 
-        self.text_in = ""
-        self.long_paragraphs = []
+        self.text_in = ""               # Buffer for text processing
+        self.long_paragraphs = []       # Final list of cleaned paragraphs
 
     def print_reject(self, line):
         if self.is_print_rejects:
@@ -54,8 +54,8 @@ class PreCleanText(object):
 
     def clean_file(self, file_name):
         """Runs methods to clean an input file"""
-        self.text_in = ""
-        self.long_paragraphs = []
+        self.text_in = ""             # Clean internal storage
+        self.long_paragraphs = []     # Clean internal storage
 
         with open(self.dir_in + "/" + file_name) as fin:
             self.text_in = fin.read()
@@ -64,17 +64,17 @@ class PreCleanText(object):
 
     def clean(self):
         """Runs all teh algorithmic cleanup"""
-        self.text_in = self.text_in.replace('-\n', '')  # Join lines with split words
+        self.text_in = self.text_in.replace('-\n', '')       # Join lines with split words
         self.text_in = re.sub(r'\ +\n', '\n', self.text_in)  # Strip spaces at the end of a line
         self.text_in = re.sub(r'\n\ +', '\n', self.text_in)  # Strip spaces at the beginning of a line
 
         for rs in self.remove_strings:
             self.text_in = re.sub(rs, '', self.text_in)
-        self.text_in = re.sub(r'VOL. \d+', '', self.text_in)  # Remove Fig references
+        self.text_in = re.sub(r'VOL. \d+', '', self.text_in)   # Remove Fig references
         self.text_in = re.sub(r'Fig\. \d+', '', self.text_in)  # Remove Fig references
         self.text_in = re.sub(r'Tab\. \d+', '', self.text_in)  # Remove Tab references
 
-        # if self.is_remove_special_chars:                 # Remove non-ASCII characters
+        # if self.is_remove_special_chars:                 # Remove non-ASCII characters (does not work like this)
         #     self.text_in = re.sub(r"[^a-zA-Z0-9 ]", "", self.text_in)
 
         text_in_lower = self.text_in.lower()  # Lowercase text
@@ -135,17 +135,17 @@ class PreCleanText(object):
 
     def write_out(self, f_out):
         """ Dump output"""
-        outfile = self.dir_out + "/" + f_out
-        with open(outfile, 'w') as outfile:
+        outfile_name = self.dir_out + "/" + f_out
+        with open(outfile_name, 'w') as outfile:
             outfile.write(self.record_separator.join(line for line in self.long_paragraphs))
 
 
 # This executes if someone runs this module directly
 if __name__ == '__main__':
     print("This is a MSR cleaning module.")
- #   input("Press Ctrl+C to quit, or enter else to test it. ")
+    input("Press Ctrl+C to quit, or enter else to test it. ")
 
-    i_dir = '/home/o/git/msr-archive/ocr/'
+    i_dir = os.path.expanduser('~/git/msr-archive/ocr/')
     o_dir = os.getcwd()
     my_file = 'NAT_MSRchemistry.txt'
 
