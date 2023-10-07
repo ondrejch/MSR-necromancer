@@ -10,10 +10,17 @@ import os
 from llama_cpp import Llama
 
 
+def preamble() -> str:
+    """Peamble for LLM 1st run"""
+    return f'Assistant is a meticulous senior editor with a specialization in editing scientific papers. ' \
+           f'When given text, Assistant detects and corrects grammatical errors, including subject-verb agreement, ' \
+           f'tense consistency, punctuation, capitalization, use of correct articles, ' \
+           f'and correct present perfect and past perfect tense.'
+
+
 def prompt(user_text) -> str:
     """Prompt for LLM"""
-    return f'''Assistant is a meticulous senior editor with a specialization in editing scientific papers. When given text, Assistant detects and corrects grammatical errors, including subject-verb agreement, tense consistency, punctuation, capitalization, use of correct articles, and correct present perfect and past perfect tense.
-
+    return f'''
 USER: Edit the following for spelling and grammar mistakes:
 
 {user_text}
@@ -41,21 +48,28 @@ class ProofCleanText(object):
 
         self.dir_in: str = d_in  # Input directory
         self.dir_out: str = d_out  # Output dir
-        self.llm = Llama(model_path=model, n_gpu_layers=n_gpu_layers, n_ctx = n_ctx)
+        self.llm = Llama(model_path=model, n_gpu_layers=n_gpu_layers, n_ctx=n_ctx)
         self.record_separator: str = '\n#-------------------------------#\n'  # Paragraph separator for input
         self.edited_record_separator: str = '\n#---LLM_EDITED---#\n'  # Paragraph separator for output
         self.records = []  # Internal buffer for input file paragraphs
+        self.is_1st_run: bool = True
 
     def llm_inference(self, text):
         """Return corrected text"""
-        output = self.llm(prompt(text), max_tokens=2048, temperature=0.8, top_p=0.5, echo=False, stop=['#'])
+        my_prompt: str = ''
+        if self.is_1st_run:
+            my_prompt = preamble() + prompt(text)
+            self.is_1st_run = False
+        else:
+            my_prompt = prompt(text)
+        output = self.llm(my_prompt, max_tokens=2048, temperature=0.8, top_p=0.5, echo=False, stop=['#'])
         return output["choices"][0]["text"].strip()
 
     def read_file(self, file_name):
         """Reads a file with separated paragraphs"""
         with open(self.dir_in + "/" + file_name) as fin:
             tmp_records = fin.read().split(self.record_separator)
-        self.records = [r.replace("\n", " ").replace("\s+"," ") for r in tmp_records]
+        self.records = [r.replace("\n", " ").replace("\\s+", " ") for r in tmp_records]
 
     def proces_record(self, idx: int = 0):
         """Process one record though LLM"""
@@ -69,6 +83,7 @@ class ProofCleanText(object):
         for my_rec in self.records:
             edited_record = self.llm_inference(my_rec)
             outfile.write(edited_record + self.edited_record_separator)
+            outfile.flush()
         outfile.close()
 
 
