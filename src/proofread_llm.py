@@ -9,6 +9,7 @@
 import os
 from llama_cpp import Llama
 
+DEBUG: int = 3
 
 def preamble() -> str:
     """Peamble for LLM 1st run"""
@@ -63,6 +64,8 @@ class ProofCleanText(object):
         else:
             my_prompt = prompt(text)
         output = self.llm(my_prompt, max_tokens=2048, temperature=0.8, top_p=0.5, echo=False, stop=['#'])
+        if DEBUG > 1:
+            print(output, flush=True)
         return output["choices"][0]["text"].strip()
 
     def read_file(self, file_name):
