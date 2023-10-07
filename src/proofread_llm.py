@@ -9,10 +9,11 @@
 import os
 from llama_cpp import Llama
 
-DEBUG: int = 3
+DEBUG: int = 3      # How much debugging outputs to print
+
 
 def preamble() -> str:
-    """Peamble for LLM 1st run"""
+    """Preamble for LLM 1st run"""
     return f'Assistant is a meticulous senior editor with a specialization in editing scientific papers. ' \
            f'When given text, Assistant detects and corrects grammatical errors, including subject-verb agreement, ' \
            f'tense consistency, punctuation, capitalization, use of correct articles, ' \
@@ -72,7 +73,7 @@ class ProofCleanText(object):
         """Reads a file with separated paragraphs"""
         with open(self.dir_in + "/" + file_name) as fin:
             tmp_records = fin.read().split(self.record_separator)
-        self.records = [r.replace("\n", " ").replace("\\s+", " ") for r in tmp_records]
+        self.records = [r.replace("\n", " ").replace("\\s+", " ") for r in tmp_records if len(r) > 0]
 
     def proces_record(self, idx: int = 0):
         """Process one record though LLM"""
