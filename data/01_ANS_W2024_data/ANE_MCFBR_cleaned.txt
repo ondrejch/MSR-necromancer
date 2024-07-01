@@ -1,0 +1,66 @@
+A fast breeder reactor of 2000 ~MWt output using molten chlorides as fuel and coolant is discussed. Some of the most significant characteristics are: The liquid fuel contains only PuCl/NaCl. The coolant is molten UCI/NaCl and also forms the fertile material along with the blanket system, again UCI/NaCl: the coolant blanket system is divided into 2 or more independent circuits. The fuel circulates through the core by forced convection the core is not divided. The thermal stability of the reactor is very good. Power excursions or fuel temperature transients are quickly damped by the phenomena of fuel expansion pushing part of the fissile material out of the critical zone. The loss of coolant accident results in a loss of half (or %, 4) of blanket which, without relying on a reactor scram, results in an automatic adjustment of the reactor power level. Corrosion effects form the most difficult problem. Thermodynamic studies suggest the use of molybdenum alloys as structural materials.
+
+Breeder reactors differ from other reactor types in that they are not only power-producing devices but also a source of fissile material and therefore should be considered as part of a complex "breeding system which includes both the power reactor (producing electricity and heat) and the reprocessing and fuel preparation plant. From this point of view, the fast reactor with molten fuel seems to be better adapted to the long-term secure breeding system than are the solid-fuel reactors.
+
+The reactor system described here is a continuation of a long-term development study of a molten-chlorides breeder (Bulmer, 1956; Chasanov, 1965; Nelson et al., 1967; Taube, 1961) demonstrates some of these advantages, among others a very high inherent safety (without relying on engineered devices) against changes of power level and loss-of-coolant accident.
+
+In this paper a molten-chloride fast breeder reactor (MCFBR) with in-core cooling using fertile material as coolant is discussed. The most important features are shown in Table 1 (Taube, Ligou 1972).
+
+The flow of the blanket-coolant agent is as follows—through U tubes in the core—heat exchanger—pump—blanket region—return to core.
+
+The coolant is circulated through the U-tubes with a velocity of 9 m/s, while the fuel is circulated within the core itself with a velocity of 2 m/s (the pump being in-core).
+
+The core is directly connected with: overflow buffer vessel (for thermal expansion of fuel), emergency fuel drainage tank, reprocessing and fuel preparation plant, and an off-gas system (with continuous purification) for removing the volatile fission products and for control of corrosion processes.
+
+The structural material is molybdenum and iron, and the corrosion phenomena might be controlled in-situ by means of a volatile reagent added to the off-gas system.
+
+No separate foreign coolant in the core results in an improvement in the neutron balance and the unique behavior of the system.
+
+The unification of the blanket material and cooling agent results in a system which has a very strong negative reactivity in the case of loss-of-coolant accident (LOCA), which in this system equals the loss of blanket material accident. This results in a spontaneous self-reduction of the criticality thus stopping the fission reaction without any engineered safeguards (control rods, valves etc.) since the reactivity decrease by 8%/N where N is the number of independent circuits only one remaining intact.
+
+The division of this coolant system into at least two totally independent circuits with a “crossed over” lattice of U-tubes in the core plus the circulation of liquid fuel (even when assumed to be low) makes possible the removal of residual fission product heating; only one undamaged circuit being necessary to achieve this.
+
+The off-gas system allows for continuous removal of some of the noble gases and other volatile fission products from the reactor core, such as iodine, and helps control corrosion processes on the core structural materials.
+
+The plutonium-containing salt (fuel) is generally separate from the uranium-containing salt (coolant and blanket material), which simplifies the technology of reprocessing, improves corrosion problems and at the same time diminishes the problem of a leak in either direction particularly when the continuous reprocessing removes the "foreign component" in both the fuel and blanket coolant. The compatibility of fuel and blanket coolant is excellent.
+
+The very strong negative temperature coefficient of reactivity arising out of any power excursion, we get an increase in fuel temperature causing a decrease in density and an ejection of part of the fuel material from the core region through specially arranged tubes.
+
+The continuous reprocessing plant (using salt-liquid metal transport processes) reduces the plutonium inventory and increases the load factor for the plant while enhancing the effective doubling time of the system. However, there are also many disadvantages.
+
+The first and most important disadvantage is of course corrosion. The molten chloride medium, especially in neutron and gamma fields at high temperatures and velocities with virtually free chlorine present from the fission of plutonium chloride, presents a very serious problem which has to be solved (perhaps by means of continuous control of the chemistry in-situ by means of volatile agents).
+
+The most likely structural material seems to be a molybdenum alloy, which among other things gives rise to parasitic absorption of neutrons.
+
+The fuel is circulated by a pump which must be located in or close to the core, which increases the corrosion problems. Other possibilities for increasing the heat transfer in the fuel are possible, but not easy to implement.
+
+The high fuel and coolant velocities result in high pumping costs and could cause erosion and increase hydrodynamic pressure.
+
+In order to define the neutron spectrum in this reactor, a 22-group cross-section set has been prepared using the code GGC3 which allows for 99 group calculations for a rather simple geometry. Most of the GGC3 library data were evaluated by GGA before 1967 but some are more recent.
+
+All whole reactor calculations have been made on the basis of transport theory using the 22-group cross section set in spherical and cylindrical geometry. The transport methods were aimed at getting a better accuracy for some reactivity coefficients.
+
+Taking into account the latest data, the problem of parasitic absorption of the chlorine is not dramatic so there appears to be no need to enrich the chlorine (°Cl) which is consistent with the conclusion of Nelson et al. (1967). The neutron spectrum shows a peak which corresponds to the chlorine cross section minimum (65% of neutrons are in an energy range where oc < 5 mb). This fact was perhaps not recognized 15 yr ago when fine spectrum calculations were not possible; it would perhaps explain the pessimistic conclusions of several eminent physicists (Weinberg and Wigner, 1958) about the use of natural chlorine in this type of reactor.
+
+For the chosen structural material (20% Mo), the reactivity cost of 2% is quite acceptable (see Table 2). However, the cost could rapidly become rather prohibitive if the volume of the structural material and/or molybdenum content should increase for technological reasons. Using the same structural materials (20% Mo), the loss of reactivity due to the vessel is k(%) = 0.72le where e is the vessel thickness in cm.
+
+Five complete transport calculations have been made for different coolant or fuel densities, and different temperatures (Ligou, 1972). If one considers that all the density modifications come from thermal expansion (liquid phase only), then one can define general temperature coefficients.
+
+In the second term, the role played by the Doppler coefficient (0.00048) is quite negligible. For +100K in the isothermal core, the loss of reactivity is -2.5%, which is very important from a safety point of view. Compared to any other type of power reactor (even the BWR), the advantage of this kind of reactor on the grounds of inherent safety is quite evident.
+
+This type of reactor has fuel circulating in the core only, with a relatively low temperature gradient of approximately 35°C and a high heat capacity, and a high velocity coolant ~9 m/s with again a low temperature gradient of approximately 43°C and high heat capacity. This, coupled with the very high negative temperature coefficient of reactivity results in an unusually high negative thermal and reactivity stability.
+
+Decrease of fuel circulation and/or coolant velocity (in the U-tubes) results in a definite and “automatic decrease of reactor power without recourse to engineered methods. This points to such a reactor being a surprisingly stable and self-regulating device.
+
+The achievement of the required fuel velocity in the core appears to require a forced circulation system since the rough estimate using natural convection gives a heat transfer coefficient that is too low, resulting in a decrease in specific power that is unacceptable.
+
+Such a forced circulation system (core only) can be one of the following types—pump installed directly in the core, pump outside the core, an external pump with injector, a gas lift pump using inert gas. Consideration of the factors involved using criteria such as reduction of the out-of-core inventory, elimination of additional heat exchangers minimization of the fuel leakage, minimization of the auxiliary power, optimization of the fuel flow regulation—all point to an in-core pump solution. Of course this gives rise to considerable technical problems (cooling of the rotor, corrosion and erosion, maintenance, neutron activation etc.).
+
+From earlier published data, it appears that the problem of the chemical state (oxidation state) in this chloride medium for the fission product element constituents requires further clarification.
+
+From a simple consideration it seems that the freeing of chlorine from the fissioned plutonium is controlled by the fission product elements with standard free enthalpy of formation up to ~20 kJ/mol of chlorine, that is up to molybdenum chloride. The more noble metals such as palladium, technetium, ruthenium, rhodium and probably tellurium and of course noble gases: xenon, krypton plus probably iodine and bromine, remain in their elementary state because of lack of chlorine (see Figure 2). Molybdenum as a fission product with a yield of ~18% from 200% all fission products may remain in part in metallic form. Since molybdenum also plays the role of structural material, the corrosion problems of the metallic molybdenum or its alloys are strongly linked with the fission product behavior in this medium.
+
+A rather serious problem arises out of the possible reaction of oxygen and oxygen-containing compounds (e.g. water) with Plutonium Tetrachloride and Uranium Tetrachloride which results in a precipitation of oxides or oxychlorides. The continuous reprocessing may permit some control over the permissible level of oxygen in the entire system as well as the continuous gas bubbling system with appropriate chemical reducing agent.
+
+Corrosion of the structural material, being molybdenum is also strongly influenced by the oxygen containing substances. A protective layer of molybdenum however, may be used on some steel materials using electrodeposition or plasma spraying techniques.
+
