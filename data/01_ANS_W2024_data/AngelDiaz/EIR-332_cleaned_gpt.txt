@@ -1,0 +1,197 @@
+Fast breeder reactor with a mixed fuel cycle of thorium/uranium-233 and uranium 258/plutonium in which all of the plutonium can be burned in 4¢tu and in which a denatured mixture of uranium-233 and uranium-236 is used to supply further reactors. The breeding ratio is relatively high, 1. 53, and the specific power is 0. 75 GW(th)/m of fuel.
+
+Extremely high-flux reactor for the transmutation of fission products strontium-90 and cesium-137. The efficiency of transmutation is approximately 15 times greater than spontaneous beta decay. This high-flux burner reactor is intended as part of a complex breeder/burner system.
+
+Internally cooled fast breeder in which the cooling agent is the molten fertile material, the same as in the blanket zone. This reactor has a moderate breeding ratio of 1. 34, a specific power of 9. 22 GW(th)/m of core, and very good inherent safety properties.
+
+In some special cases, a hypothetical molten fluoride has been considered using PuF3 as the fissile, UF6 as the fertile, and NaF and ZrF4 as the diluent components. In this case, one obtains a lower but still respectable breeding ratio of 1. 5.
+
+In all cases, a directly coupled continuously operating reprocessing plant is proposed. Some of the technological problems of reprocessing are discussed. Furthermore, the report touches on some of the difficulties associated with corrosion arising from the use of these molten media coupled with the irradiation effects, such as structural damage from fast neutrons.
+
+The thermohydraulic studies show that even under the extreme operating conditions of very high neutron fluxes and high specific power, cooling is possible in most cases by out-of-core cooling but also in some cases cooling internally in the core.
+
+The history of the development of fission reactor concepts using molten salt as fuel media is as old and as complex as the history of the development of nuclear power itself. The ups and downs have followed those of the parent technology, but the swings have been if anything more violent. In 1975, for example, molten salt technology all but died out, but then in 1977, a new attempt at revival was begun, this time associated with the new interest in proliferation-proof systems.
+
+Molten fuel reactors differ from solid-fuel reactors in that they use a liquid fuel instead of a solid one. There are three types of molten fuel reactors: Externally cooled, where the molten fuel is pumped out of the core to the external heat exchanger. In this type of reactor, only fuel and fertile material are present in the core (no coolant). The large amount of molten fuel outside the core does not contribute to the critical mass.
+
+In externally cooled fast reactors, the loss of a portion of the delayed neutrons could adversely affect reactor control. Additionally, the biological shielding outside the core is very expensive. Most of the reactors discussed in this paper are externally cooled.
+
+Internally, direct-cooled reactors: here the cooling agent is pumped directly into the core where, after mixing, the fuel in the lower part of the core is separated and pumped out of the core to the heat exchanger. The direct contact of molten fuel with molten coolant has several particular advantages: very good heat transfer, no coolant tubes (or cladding), possibility of transporting fission products.
+
+The disadvantages are unfortunately numerous: problems with mixing and separating the fuel and coolant, corrosion, etc. This type of reactor has also been studied cooled by molten lead, cooled by boiling mercury, and cooled by boiling aluminum chloride.
+
+Internally indirectly cooled reactor: Here, the cooling agent flows through tubes in the core. Heat is transferred from fuel to coolant across the tubes. No direct contact between molten fuel and liquid or gaseous coolant is permitted. These types have also been studied, in most cases using sodium as a coolant or molten chlorides of uranium.
+
+The aim here is to demonstrate the possibility of using a molten chlorides fast breeder reactor with external cooling as a device for consuming all plutonium produced in situ. At first, the reactor is fueled with denatured uranium-233/uranium-238, and this is changed stepwise to a feed of thorium and depleted or natural uranium only.
+
+The total amount of plutonium chloride, after having been separated from the fission products but mixed with the uranium chloride and sodium chloride, is circulated back into the core. The amount of fresh U-233 required is correspondingly smaller.
+
+Based on relatively simple assumptions concerning the isotopic composition of the plutonium, it can be shown that the same core design is capable of burning a mixture of fissile materials while maintaining approximately the same power level.
+
+This concept has been compared with the more conventional type. Holding most of the parameters the same, the breeding gain comes out about equal. However, one large difference is that although the total power is the same, the specific power changes by more than one magnitude, being higher in the central fuel zone reactor.
+
+Since the specific power and intensity of neutron flux is clearly a major problem from the point of view of the engineering design of the reactor (cooling, radiation damage of structural material and fuel), both systems have been studied: that is, without a central blanket region and with a radius up to 110 cm. The results are given below for fuel without uranium and with uranium fuel for both cases: no internal blanket zone and with an internal blanket zone.
+
+The rough calculations on changing the concentration of Pu in the melt of NaCl (0. 9) show a rather sharp decrease in breeding gain (BG) for decreasing plutonium concentration, especially when the plutonium molar ratio to sodium is lower than 1.
+
+In spite of these uncertainties of the Pull3-NeCl-UC1l3 system, the influence of the U-238 in the fuel has also been calculated. For a constant PuCl3 concentration with a simplified assumption for the NaCl concentration, the results are given in Table 16.
+
+Fission product concentration, however, plays a very important role. For a given reactor design and given fuel and fertile compositions, increasing the concentration of fission products (simulated here as breeding gain) from 0. 65 to 0. 38 when the specific power decreases less than a factor of two.
+
+The conclusions of this study are that useful quantities of Cs-137 could be transmuted under the projected CTR blanket loading conditions. The reduction in Cs-137 toxicity is still be at most a factor 3 down. In addition, a study of the build-up of fission product nuclei in order to establish the requirements for periodic chemical processing and associated costs has not been carried out.
+
+The problem of fission products cannot be eliminated by any system of fission power reactors operating in either a stagnant or expanding nuclear power economy since the production rate exceeds the elimination rate by burnout and decay. Only at equilibrium will the production and removal rates be equal, a condition that is never attained in power reactors. Equilibrium can be obtained, however, for a system that includes the stockpile of fission products as part of the system inventory since the stockpile will grow until its decay rate equals the net production rate of the system. For the projected nuclear power economy, however, this will require a very large stockpile with its associated potential for release of large quantities of hazardous radio-isotopes to the environment. It is this stockpile that must be greatly reduced or eliminated from the biosphere. A method suggested by Steinberg et al. is transmutation in burner reactors, which are designed to maximize neutron absorption in separated fission products charged to a reactor. If sufficient numbers of these burners are used, the fission products inventory of the nuclear power system can then reach equilibrium and be maintained at an irreducible minimum, which is the quantity contained in the reactors, the chemical processing plants, the transportation system, and in some industrial plants.
+
+If it is assumed that burner reactors are desirable adjuncts to a nuclear economy, what are their design requirements and limitations? It is obvious that they must maximize (with due regard to economics) the ratio of burnout of a particular fission product to its production rate in fission reactors, and the neutron flux must be high enough to cause a significant decrease in its effective half-life. Of the fission types, the breeder reactor has the most efficient neutron economy and, in principle, would make the most efficient burner if all or part of the fertile material can be replaced by a Sr-Cs mixture without causing chemical processing problems or too large a perturbation in the flux spectrum because of the different characteristics of these fission products. The cost accounting in such a system would set the value of neutrons absorbed in the fission product feed at an accounting cost equal to the value of the fuel bred from those neutrons.
+
+In a fertile material, the absorbed fission products are instead in the fission product feed. The estimated breeding ratio for the Molten Salt Breeder Reactor (MSBR), a thermal breeder, is 95, and for the Liquid Metal Fueled Fast Breeder Reactor. However, a number of other isotopes of these elements are produced, which would also absorb neutrons. 57. Any modifications of these designs to create high neutron fluxes will increase the neutron leakage and decrease the burnout ratios significantly.
+
+From this, it must be clear that only a very limited amount of fission products can be irradiated by neutrons of the whole system to retain a good breeding gain and doubling time; in other words, a self-sustaining and expanding breeding system. For further consideration, it is postulated that the maximum number of transmutable nuclides equals T = 0. 3.
+
+Transmutation reactions can be carried out in a variety of types of reactors, including research and test reactors, accelerator-driven systems, and fast breeder reactors. However, the most commonly used type of reactor for transmutation is the light water reactor (LWR), which is currently used to generate electricity in many countries around the world. The LWR can be modified to include a minor actinide burner fuel assembly that contains transuranic elements such as neptunium and americium, which are produced during normal operation of an LWR.
+
+From the perspective of this paper, the most important process is the transmutation of some of these nuclides by neutrons in a fission reactor. The criteria given in Chapter 2 limit the choice of the system. That is, the number of F. P. nuclei cannot be too large in relation to the number of fissioned atoms in the burner reactor (reactor for transmutation) because the latter process also produces new fission products.
+
+For the given total power and the same specific power, the product Ne for the thermal reactor must be approximately 400 times smaller than for a fast reactor.
+
+The highest specific power, and hence the highest neutron flux, is possible if the cooling process is carried out by the fuel itself and not by a separate cooling agent only. This directs our interest towards a reactor with molten fuel, in spite of the exotic nature of this solution.
+
+4. 1. 7 What are the limitations of a solid-fueled reactor? Solid-fueled reactors have several limitations, including: The maximum temperature that can be achieved is limited by the melting point of the fuel material, which typically ranges from about 2000 to 3000 degrees Celsius. Solid fuels are less thermally efficient than liquid or gaseous fuels because they cannot expand and contract freely in response to changes in temperature. The use of solid fuels requires the development of specialized fuel fabrication technologies, which can be expensive and time-consuming. Solid fuels must be enriched with fissile material before they can be used in a reactor, which adds to their cost and complexity.
+
+For this fast flux, the specific power can be assumed by taking into account the effective increase of the fission cross section due to the influence of the thermal trap. The simplified calculation results in a specific power of 10 kW per 7.
+
+As an alternative, some consideration has been given at Oak Ridge to the possibility of using a molten salt reactor as a fast flux test facility. The primary virtue of this approach includes the ability to achieve very high power densities and at the same time eliminate the downtime associated with refueling the reactor. A fast spectrum molten salt reactor, however, requires a high fissile concentration (i. e. , 390 to 500 g %U/liter) in order to get mean neutron energies in the range of 10 to 50 keV.
+
+Just mentioned is based on a chloride-salt reactor would permit a higher mean energy for the same fuel concentration but would require the development of a new technology associated with the use of chlorides. Since the fast flux level is largely determined by the power density, a flux of the order of 10 or more corresponds to a peak power density in the fuel salt in a range of 5 to 10 MW/litre and to a power level of about 1009 MW (thermal). This means that there will be only 100 to 200 liters in the core; however, the external volume would be about 10,000 liters.
+
+To form a thermal neutron flux trap, one must naturally use neutron-moderating materials. As is well known, light materials such as hydrogen can scatter neutrons past the neutron-absorbing intermediate-energy resonance region. 7H is the most efficient nuclide in this respect but also exhibits appreciable thermal absorption. Deuterium, O, beryllium Be, and carbon C are usual alternatives. Oxygen O is rather heavy, though frequently already present in a molecular combination.
+
+Considering chemical and physical properties, the logical materials to be used inside the lux trap are hydroxide and/or deuteroxide compounds of the FP. As shown in Figure 14A, just a small proportion of H molar fraction has a large deleterious effect.
+
+As Sr-90 and Cs-137 also have their fair share of resonances, it is advantageous to thermalize the flux before reaching the flux trap region containing these targets. Therefore, a spectrum converter between the flux trap and fast fuel is needed. Bearing in mind the high temperatures to be obtained in this reactor and possible chemical reactions with moist salt, H70 and D90 are unacceptable. This leaves Be, BeO, and graphite or some variant, therefore, for consideration. Se (and DB) compounds, of course, have also to their advantage a relatively low (n,2n) threshold (1. 57 MeV). Location next to a fast region can, therefore, produce considerable very slow neutrons in the flux trap, which is a main objective of the burner reactor. Replacement of Be by € or Ma wall material should, therefore, lower the FP transmutation rate and reduce the production of long-lived fission products.
+
+The influence of plutonium concentration (0. 14C) is an important parameter of this reactor. Increasing the plutonium concentration significantly improves the transmutation rate but also increases the power density beyond a technically feasible level.
+
+Molten fuel offers the only way of handling the very high power densities of 10 GWm^-3. In addition, the steep gradient of fission rate makes a molten fuel core essential since the local fission density can be one order of magnitude greater than the mean density. In a solid fuel core, the high heat removal rates would not be achievable.
+
+The large size of the thermal flux trap results in the fuel region approaching slab geometry with attendant high neutron leakage. To better economize on neutrons, several possibilities may be considered such as: 1) Increasing the height of the trap to reduce its thickness and improve its leakage characteristics; 2) Using a more highly enriched fuel to increase the reactivity of the system; 3) Adding control rods to absorb excess neutrons during normal operation.
+
+Table 4. 8 Thermohydraulics of the High-Flux Burner Reactor Parameter Unit Value Total power GW(thy) 7. 0 Core volume m^3 0. 88 Power density kW/cm 10. 5 fuel density g/cm^3 2. 35 Heat capacity, mass J/kgK 0. 83 Heat capacity, volume J/m^3K 4. 95 Diameter of tube inlet cm 120 Inlet velocity m/s 15 Heat capacity GWs/K 3. 533 Temperature increase °C 240 Temperature of fuel °F 0 Temperature of fuel (°F) Mean velocity of fuel.
+
+Specific heat exchanger power: 1 kW/m³. Total volume of heat exchanger: 140 m³. Volumetric fuel ratio: 3. Fuel volume in heat exchanger: 3. 3 m³. Fuel in the core heat exchanger piping: 1. 0 m³. Total fuel set off care: 4. 3 m³. Fuel in the core: 1. 0 m³. Total fuel in the system: 5. 3 m³. Mean specific power of fuel in the whole system: 2. 907 CW/m³. Power rating of the whole system: 11 GwW(th). Plutonium content of fuel: 0. 8 ¢Pu/cm³. The postulated power rating for 1 kePu/MW(th). For this case, calculated the power: 1.
+
+Parametric studies were made as variations around a reference system which assumed P = 14 GW(th) (X = 29, K = 4+2), and Retz = 785 cm. The flux trap is surrounded by a 5 cm BeO converter, a critical fuel thickness of 66 cm, and an outer wall. Figure 19 shows the calculated flux distributions for such a burner reactor. Note that the total flux in the fuel is similar to that in the flux trap.
+
+To still further improve these reactions, the use of a beryllium moderator in the form of a 5 cm wall in the outer region of the core has been calculated. This gave an improvement in the transmutation rate of Cs-137 in the inner target region but also a very significant increase in specific power due to the scattering of the neutron flux in the fuel region.
+
+The results obtained are significant but rather pessimistic. To estimate the profit of the transmutation process, the hazard index (H) must also be taken into account. From Table 4. 10, it can be seen that the total reduction in hazard from both fission products equals 13. 5, which is a better indication.
+
+1. 5 Comments on Hazard Coefficients The hazard coefficient is a measure of the effectiveness of a control in reducing the risk associated with a particular hazard. However, it should be noted that the hazard coefficient does not take into account the cost of implementing the control or the potential side effects of the control. Therefore, other factors such as cost-effectiveness and feasibility should also be considered when selecting controls for a system.
+
+It may be valuable to estimate the usefulness of using the concept of hazard coefficients in fission product management. Table 4. 10 gives some values for Sr-90 and Cs-137. From this, it can be seen that in a steady state transmutations requiring the amount of hazardous substances is reduced by a factor of 15% in relation to the steady beta-decay.
+
+Table 4. 9: The Transmutation Process for Isolated Fission Products (Total power P = 39 * 19% W from reactor 7 * 15% W) Fission rate in ii Date for Property Symbol Unit Yield of fission product Y ioe 0. 041 0. 964 Volume of target Vv cm 2. 03 x 10° Mean cross section om 10° om 0. 29 6. 045 Total flux, m o non s } 3. 63 x 10¹ Destruction constant ope= 1r²/r op year 4. 85 8. 95 Efficiency of transmutation V2.
+
+It must be remembered that the relatively high neutron flux results in the irradiation not only of the non-desirable radioactive nuclides but also the stable fission products, including the stable components of the fuel and structural material. A very short review of these particular processes is given here.
+
+The proposed system, a molten-salt fast reactor, while rather exotic from a technological point of view, is not as far removed from the present state of technology as some other transmutation proposals (e. g. , high-flux high-energy accelerators; controlled thermonuclear reactors) may be.
+
+The first and most important is, of course, corrosion. The molten chloride medium, especially in neutron and gamma fields. A second aspect is radiation damage to the materials, which can lead to embrittlement or swelling, and ultimately failure. Thirdly, there are mechanical stresses induced by thermal expansion and contraction, as well as cyclic loading due to pumping action. Finally, there are issues of compatibility between different materials used in the reactor design, such as the interaction between the fuel and cladding or moderator and coolant.
+
+The relative fluxes for each group are given in Table 1. 3, for core center and core boundary. The corresponding one-group spectra (flux per lethargy unit) are compared to that of the fast critical facility ZPR 3-48. This last spectrum is slightly harder, but the spectrum of the molten chlorides fast breeder compares favorably with that of a power LMFBR. From Table 5. From Table 5.
+
+For the given core (125 cm radius), the blanket thickness was varied between 75 cm and 115 cm. Figure 4 shows the variation of breeding ratios obtained from the new transport calculations. The reactivity and the core breeding ratio remain practically constant in this range, making the adjustment of the core volume unnecessary.
+
+Neutronics of internally cooled fast breeder core: atomic densities (atoms x 10^7) Pu-239: 6. 6797 x 10^7 atoms/cm.
+
+On the other hand, reactivity depends on the core radius. Figure 5. 5 shows the variation of reactivity with increasing core size. Such a curve is very useful when it is required to translate the cost in reactivity of a supplementary parasitic absorption into an increase in core volume (or plutonium inventory). The transport calculations used in Figure 5. 5 could not be used to obtain the corresponding variations in breeding ratio; rather, they have been calculated from the information in Table 5. 3 (assuming small core volume variation < 10% and no important changes in spectra).
+
+The effects of modifying the core composition can be evaluated by the same method. This is arranged to avoid altering the properties of the cladding and fuel by varying the coolant tube diameter. The reactivity is very sensitive to this parameter.
+
+It can be seen that the penalty on the total breeding ratio for the same 6K is only slightly greater, while the penalty on the increase of plutonium inventory is five times less. Therefore, a reduction in the diameter of the coolant tubes is preferable to an increase in coolant diameter, provided, of course, that an increase in coolant velocity is admissible.
+
+In the whole system, the chlorine absorption represents 5. 38%. We have seen that the GGC-3 values are different from those reported in curve 6 and assuming that the reference spectrum is unchanged, a computation of the one-group cross-sections gives 8. 46 mb instead of 6. 35 mb in the core. In the energy range (E % 9. 6 MeV) is almost compensated for by the decrease at the lower energies (10 keV - 0. 6 MeV).
+
+The total absorption by chlorine for the whole system is 0. 57% could be replaced by a 1. 9% increase in Pu inventory if a very small decrease (0. 65%) of the core tube diameter is accepted. Otherwise, by changing only the core radius, a greater increase of Pu inventory (10%) is required.
+
+For the molybdenum alloy chosen (20% Mo), the reactivity penalty (2%) is quite acceptable. However, the cost could rapidly become prohibitive if the volume of the structural material and/or the molybdenum content should increase for design reasons. In the context of more detailed design studies, this point may become more important than the definition of the proper chlorine cross sections. It does, however, seem likely that the molybdenum cross-sections used in GGC-3 were overestimated.
+
+This important isothermal and pessimistic coefficient is still negative. Nevertheless, during a detailed study of this reactor concept, it would be necessary to check the values of the thermal expansion coefficients for fuel and coolant more carefully.
+
+In spherical geometry, the critical buckling load is obtained from homogeneous calculations based only on the cross-section data of the core. "f(E)" represents the asymptotic spectrum, which is space-independent far from the core boundary. For the same 22 energy groups, one obtains: 8 = 4. 08 x 10^7 cm^7. Using this value, a good fit of the exact fluxes has been obtained from the complete transport calculations.
+
+Where R is the critical radius of the core, the blanket savings mainly depend on the nuclear properties of the core and blanket and on the thickness of the blanket. However, for blanket thicknesses greater than 60 cm, this effect is very weak. Finally, the shape and size of the core have almost no influence on this saving.
+
+Two-dimensional transport calculations are too expensive and unsafe for use in a reactor core, and only one-dimensional calculations have been made, which are sufficiently accurate.
+
+Finally, with the previous blanket saving, we get a core radius proper of Rg = 117. 5 cm. The direct transport calculations with SHADOK-code give Rg = 118 cm. This clearly indicates the value of the blanket saving concept. Nevertheless, these transport calculations are still necessary because they give the radial distribution of fluxes and specific power over the whole system and more detailed information. The energy production in the blanket is quite small (1. 7% of the core power) because no fissile materials are present (and only fast fissions occur in 38U). In practice, it would be higher (say 5%) since the reprocessing process would not be able to remove all the fissile nuclides produced even with continuous fuel (coolant) reprocessing.
+
+- has an extremely high negative temperature coefficient of reactivity since during a temperature rise, some of the liquid fuel is pushed out of the core into a non-critical geometry buffer tank. The dumping of fuel in case of an incident can be done in an extremely short time.
+
+A rather adverse property of such a molten fuel reactor is the need to initially heat the solidified fuel in a non-critical mode. This problem has been fully overcome in the case of the molten fluoride thermal reactor at Oak Ridge National Laboratory.
+
+This property causes the rapid elimination of traces of water or oxygen in the molten chloride salts of Pu and U. It is also well known that traces of H2O and O2 have a very big influence on the corrosion rate. Molybdenum belongs to the last class; the oxide is much more stable than the chloride (178).
+
+One can assume that this melt containing hydrogen is saturated, so that the porosity of the wall (molybdenum) will play a minor role. The most important factor is the variation in the mechanical properties of the molybdenum caused by the uptake of hydrogen.
+
+From a simple consideration, it seems that the freeing of chlorine from the fissioned plutonium is controlled by the fission product elements with standard free enthalpy of formation up to 20 KJ/mol of chlorine, that is up to molybdenum chloride. The more noble metals such as palladium, technetium, ruthenium, rhodium, and probably tellurium, and of course noble gases like xenon, krypton, and probably iodine and bromine remain in their elementary state because of the lack of chlorine. Molybdenum as a fission product with a yield of 18% from 200% of all fission products may remain in part in metallic form. Since molybdenum also plays the role of a structural material, the corrosion problems of the metallic molybdenum or its alloys are strongly linked with the fission product behavior in this medium.
+
+Corrosion of the structural material, being molybdenum, is also strongly influenced by oxygen-containing substances. A protective layer of molybdenum, however, may be used on the same steel materials using electrodeposition or plasma spraying techniques.
+
+The separation of plutonium or uranium from irradiated fuel by means of pyrochemical techniques could be carried out, for example, in the following way: A molten salt primary phase containing Pu and FP metallic phase (part of FP remains in the molten salt secondary phase containing only Pu).
+
+A mixture of hydrogen-helium gas is continuously bubbled through the liquid fuel in the core. The mean dwell time of the gas bubbles needs to be controlled, and the mean transport time of the molten components to these bubbles must also be controlled (addition of a further gas stream).
+
+To remove the volatile fission products which in the case of an accident control the environmental hazard (I-131, Xe-133, Kr-85, and precursors of Cs-137) and at the same time for the thermal reactor, removal of the I-135, precursor of Xe-135, improves the neutron balance.
+
+For the sake of a first approximation, a gas flux of 30 cm per sec (normal state) of Ho/He is arbitrarily assumed. At 20 bar pressure and with a dwelling time in core effusion of 20 seconds, the gas bubbles will only occupy a fraction of the core equal to 10-75.
+
+The system proposed for continuous removal of the volatile fission products from the core itself has a retention time of only some hundred seconds. Each reprocessing mechanism, which operates outside the core, must be designed to achieve an even shorter retention time since it is essential that any radioactive material released into the environment during normal operation or accident conditions should be minimized.
+
+The core is limited by the amount of molten fuel being pumped from the core to the reprocessing plant. This amount, due to the high capital cost of the fuel and high operation costs, cannot be greater than that which provides a fuel in-core dwell time of about one week.
+
+As other possible nuclides, Cs-142 and -143 can be considered. The removal of these delayed-neutron precursors from the core reduces the value of 8, which is lower for Pu-239 than U-235. Thus, we have a problem of reaching a compromise between a rapid as possible removal of the hazardous I-131 and a long dwell time in the core for the delayed neutron.
+
+In this case, the mean dwell time of iodine in the steady-state reactor is about 100 seconds. It can be seen that the activity of iodine for a 2. 5 GW(t) reactor is of the order of only 19 kilocuries (for seconds) activity of approximately 18% (or 103 for 1900-second extraction rate).
+
+The gas-extraction also influences the other volatile nuclides. From a very rough estimation for these molten salts (with a small excess of free hydrogen), the following fission products and their associated precursors of iodine and bromine can be volatile at 1000°C: - Cesium-137, with its associated precursor cesium-136; - Iodine-129, with its associated precursor iodine-128; - Krypton-85, with its associated precursors krypton-84 and krypton-86; - Xenon-133, with its associated precursor xenon-132.
+
+The rather large concentration of sulfur formed by 35Cl(n,p)35S reaction in the molten chloride system proposed for the fast reactor makes it necessary to obtain full information on the chemical behavior of radiosulphur. Recent studies on the chemical states of radiosulphur obtained by neutron irradiation of alkali chlorides have shown the complexity of this problem.
+
+Sodium chloride (Merck reagent) was heated for 60 hours at 200°C in an evacuated quartz tube. The dried sample of 100 mg sealed in a vacuum (197 torr) quartz tube was irradiated near the core of the Saphir swimming pool reactor for different periods at estimated temperatures of -190°C and 159°C. After irradiation, the samples were kept for further analysis.
+
+The method of 90S-species separation: The crushing of the irradiated ampoule was made in a special device from which the air was removed by purging with a nitrogen stream containing 10 ppm of oxygen. After crushing, a gentle stream of nitrogen was allowed to flow for about 10 min. The gases evolved were collected in cooled traps. The irradiated salt was dissolved in 2 M KCN annihilant containing carriers of S7, CNS, SO7. During dissolution, oxygen was not completely excluded, although nitrogen gas was passed continuously through the system. The radiosulfur found in gaseous form was determined as barium sulphate.
+
+The irradiation time. Formation of S2 is indicated by charge conservation during the Cl(n,p)S reaction. Alternatively, it can be supposed that reduction of sulfur takes place by capturing electrons due to the discharge of F-centers. The presence of S in this oxidation state in the lattice is no longer contested. The precursors of higher forms may be S as a result of an electron loss from S. However, the interaction of chlorine entities formed by irradiation with radiosulfur to form species such as SCl, Cl2, S2, may be an important mechanism in forming the precursors of sulfate and sulfite.
+
+During longer irradiations, some of the sulfide is converted into oxysulphides. The oxidation of radiosulfur with an increase in radiation damage concentration may also be due to the reaction of recoil sulfur with chlorine atoms. The presence of OH in the crystal must not be neglected.
+
+Of sulfur and above the melting point of NaCl, the S° and S2Cl2 receive sufficient kinetic energy to migrate to the surface or even to escape from the crystal and be collected as volatile radioactive sulfur. However, there are some differences in the S°57 chemical distribution on heating below and above the melting point of NaCl (experiments 2-3). It seems that for relatively short periods of irradiation (2 hr), only the sulfate and sulfite precursors account for the volatile radioactive sulfur fraction.
+
+No significant changes are observed for the sulfide and higher oxidation forms. Comparing these results with those presented in shows that in the post-irradiation melted samples, the radiation damage has a different effect than in the unmelted ones.
+
+In the molten state, the active oxidizing agents have a different identity than those present below melting. The presence of oxygen and possibly sodium oxide during melting may have a determining role in deciding the state of the radioactive sulfur.
+
+Table 7. 2 shows that the higher oxidation fraction is lower (3%) at 77 K. As is seen, the increased S° after low temperature irradiation occurs at the expense of the sulfate + sulfite and sulfide fractions.
+
+Significant amounts of the order of magnitude of thousands of ppm 3°S would be present as steady-state concentration in a proposed fast breeder reactor fueled with molten Pu/U-chlorides diluted in NaCl. To obtain information about the chemical behavior, mainly the distribution of oxidation states, the influence of irradiation temperatures (-190 and 15°C), and the effects of a post-irradiation heat treatment, solid NaCl was investigated, and the results published. The subject of the present note is investigations at higher irradiation temperatures, especially with samples molten during irradiation.
+
+At least 2 independent experiments at 150°C, 500°C, and 700°C for each set of parameters (pretreatment, gold-foil packing, irradiation-temperature) are required. The results for sulphite, sulphate, and volatile elements should be tabulated together as SX.
+
+Packed into gold foil, by variations in sample surface, even if mechanically destroyed before species still remaining in the salt as S, Cl, are immediately hydrolyzed to sulfite in the base. The following figure shows the temperature oxidation state distribution.
+
+In the central regions, a thermal neutron flux is obtained (Beryllium-coated Deuterium hydroxide as moderator). This is the reason for requiring high fuel turbulence.
+
+The temperature varied between $359°C and 965°C. For various reasons, a reference concept was used as a basis for the calculations. A description of the reference design is also given in [3]. The relevant characteristics are provided in the following figures: 1.
+
+This type of reactor has fuel circulating in the core with a relatively low temperature gradient of approximately 35°C and a high neutron capacity, and a high-velocity coolant flowing through the core at approx. 700 m/s with again a low temperature gradient of approx. 43°C and high heat capacity.
+
+Decrease of the fuel circulation and/or coolant velocity (in the U-tubes) results in a definite and automatic decrease of reactor power without recourse to engineered methods. This points to such a reactor being surprisingly stable and self-regulating device.
+
+Such a forced circulation system (core only) can be one of the following types: pump installed directly in the core, pump outside the core, an external pump with an injector, a gas lift pump using inert gas. Consideration of the factors involved using criteria such as reduction of the out-of-core inventory, elimination of additional heat exchangers, minimization of the fuel leakage, minimization of the auxiliary power, and optimization of the fuel flow regulation - all point to an in-core pump solution. Of course, this requires considerable technical problems (cooling of the rotor, corrosion and erosion, maintenance, neutron activation, etc. ).
+
+The fuel bulk temperature changes from 85°C at the bottom to 965°C at V4 core height and is at 848°C at 3/4 of the core height. The coolant temperature lies between 750°C at the inlet and 793°C at the outlet. Both these small temperature gradients in the fuel and in the coolant (fertile material) may prove beneficial in reducing corrosion processes due to the minimizing of mass transport.
+
+The decrease of the mean core output from 2. 088 GW to 0. 598 GW - that is approximately a factor of 3! It is clear since the lower coolant velocity results in a higher coolant outlet temperature and lower power output, we have a definite negative temperature coefficient (power output) varying with the given coolant velocity.
+
+If the fuel velocity falls from 2 m/s to 0. 8 m/s, we again get an important decrease of power output (see 18). The decrease in both fuel and coolant velocity results in a sharp decrease of reactor power. This means that such a reactor can be considered as a surprisingly stable and self-regulating device. In the case of a sudden fall in coolant and/or fuel velocities, the power output decreases to a safe level without intervention.

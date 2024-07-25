@@ -1,0 +1,496 @@
+Criticality was attained by melting Uranium tetrafluoride-Lithium fluoride eutectic
+salt containing 33.3 kilograms of uranium (91 percent Uranium-233) into the
+carrier salt from which the original uranium had been
+stripped. The critical loading was only 1 percent less than
+predicted. Reactivity coefficients and control rod worth
+were also in acceptable agreement with predictions.
+
+Dynamics tests showed that the system was stable at all
+power levels, and the experimental transfer functions
+fitted the theoretical curves.
+
+Shortly after the beginning of fuel-salt circulation,
+beryllium metal was exposed to the salt to increase the
+reducing power. At that time the amount of blanket gas
+entrained in the circulating fuel increased from less than
+0.1 volume  percent to about 0.6 volume  percent and remained there.
+Various experiments were done in efforts to elucidate
+the effect of the beryllium. The entrained gas was
+practically eliminated from the fuel loop by operatmg
+the pump at slightly reduced speed.
+
+During the approach to power, small perturbatlons were observed in the nuclear power and some other
+system variables. These were tentatively ascribed to
+gradual accumulation and sudden release of gas from
+somewhere in the core. The perturbations ceased when
+the circulating void fraction was reduced.
+
+The fuel off-gas line partially plugged near the pump
+bowl during the zero-power experiments, and an accumulation of frozen salt mist was removed before the
+beginning of power operation.
+
+Component performance was generally good, but a
+loose gear in the fuel-sampler drive mechanism caused a
+three-week shutdown in December, delaying the start of power operation. At the end of the period, fuel had
+been in the core continuously for 47 days, during which
+time the integrated power amounted to 747 equivalent
+full-power hours.
+
+The molten salt reactor experiment-type freeze flange undergoing thermal
+cycle testing was inspected afeeter 321 cycles. The crack
+observed first afeeter 268 cycles had extended only
+slightly. Cycling was resumed.
+
+The mark 2 fuel pump, which features a deeper bowl,
+began test operation with molten salt and accumulated
+a total of 4000 hours. The only difficulty was periodic
+plugging of the off-gas line with what appeared to be
+frozen salt mist.
+
+Daily tests of rod-scram relays turned up no more
+failures. (Three of fifeeteen failed in the previous six
+months). Two fission chamber failures occurred afeeter
+nine months and one year of service respectively. The
+improvement over the three-month average life was
+attributed to improved sealing against water intrusion.
+Neutron chambers were installed in the drain tank cell
+for the Uranium-233 loading and were afterwards removed.
+Only minor modifications were made in the instrumentation and controls.
+
+A moderate number of minor failures occurred in the
+on-line digital computer. Numerous sofeetware changes
+were made in support of reactor operations and
+experiments. The conversational-mode calculational
+language FOCAL was adapted to the BR-340, making
+possible engineering calculations in the background
+time interspersed with the routine monitoring and
+computing operations of the computer.
+
+Nuclide changes and  reactivity effects during extended power operation with Uranium-233 were computed using updated cross-section data. The computed distribution of fissions was 94 percent in Uranium-233, 4 percent in Plutonium-239
+2 percent in Uranium-235 at the beginning, with the Plutonium-239 fissions
+slowly decreasing and the Uranium-233 fissions increasing with
+integrated power.
+
+A method for the calculation of time variations in
+reactivity corresponding to specified variations in the
+fission rate was developed and used to analyze some
+observed “blips” in the molten salt reactor experiment power level.
+
+Theoretical analysis of the dynamic stability of the
+molten salt reactor experiment with Uranium-233 fuel was extended to obtain the
+power dependence of all the eigenvalues of the system
+mathematical mode. The dependence exhibited the
+expected tendency of the system to become more
+sluggish in retuming to its original state at lower power
+levels.
+
+Design study of a 1000 Megawatt (electrical) molten salt breeder reactor power
+station was continued. The plant layout remains essentially the same except that the reactor cell diameter was
+increased to 66 feet to accommodate a larger reactor
+vessel. The cell wall construction was modified to
+provide double containment of the radioactive systems.
+
+The size of zone I of the reactor core was increased to
+14 feet diam X 13 feet high, and other dimensions were
+adjusted to reduce the damage neutron flux to assure a 4-year life for the core graphite and a 30-year life for
+the reflector graphite. The latter will then not require
+provisions for routine replacement.
+
+The undermoderated region surrounding the most
+active portion of the core was redesigned to use 2-in. by
+10-inch by 14-feet-long slabs of graphite rather than
+graphite spheres. This region contains 37 percent by volume
+of salt as in the previous concepts.
+
+The reflector graphite was redesigned to make use of
+larger pieces and to assure a well-defined passage for
+flow of fuel salt to cool the reactor vessel wall. The fuel
+salt will flow radially inward from the wall annulus to
+cool the reflector graphite.
+
+Axial reflectors were added at the top and bottom to
+improve the nuclear performance and to reduce the
+damage flux on the Hastelloy Nickel vessel heads. The lifting
+rods used to remove the entire core assembly for
+graphite replacement are now removable to eliminate
+the poisoning effect during normal operation.
+
+The top of the primary heat exchanger was modified
+to use L-shaped tubes and a vertical tube sheet. The
+upper portion of the tubing contains a sine-wave bend
+to reduce the stresses due to thermal expansion. The heat exchanger design assumes use of tubing with a
+knurled groove to enhance the heat transfer on both
+inside and outside.
+The removal of reactor afeeterheat has been analyzed in more detail. The normal method is to continue circulation of both the primary and secondary salts and to transfer the heat to the steam system. The fuel salt can
+be drained to a tank provided with cooling thimbles,
+and the residual heat due to deposited fission products
+in the core can be removed by circulating nitrogen with
+the fuel-salt pumps.
+
+More detailed studies were completed on the temperature distributions within the reactor. It was found that
+the maximum core graphite temperature would be
+1307 degrees Fahrenheit, occurring about 1 feet above midheight in the
+reactor. The maximum temperature in the radial reflector graphite was found to be 1363 degrees Fahrenheit. Vessel wall
+temperatures were also analyzed and found to be within acceptable limits.
+
+The molten salt breeder reactor station cost estimates were revised to
+more nearly reflect 1969 costs. At a construction cost
+of about $160.00 per kilowatt and a production cost of
+4 mills per kilowatthours, the molten salt breeder reactor compares favorably with our
+estimates of costs for water reactors.
+
+Some conceptual design studies were begun for a
+molten-salt breeder experiment. The objectives proposed for the experiment can be accomplished with a
+reactor with a power in the range of 100 to 200 Megawatt
+(thermal).
+
+Recent optimization studies of molten-salt breeder
+reactor configurations have been based on a figure of
+merit which places greater weight on fuel specific power
+than does the annual fuel yield. In addition, a limitation
+on the maximum fast-neutron flux in the graphite may
+now also be imposed as a constraint on the optimization. 
+
+Since the previous progress report, we have found
+that the core of the 1000 Megawatt (electrical) single-fluid
+molten salt breeder reactor can be enlarged so as to extend the useful life of
+the graphite from two to four years with only a slight
+penalty in breeding performance. Additional modifications have been made to provide proper cooling of
+the reflector and to limit the fast-neutron flux in the
+reflector to a level that should not require replacement
+of the reflector during the life of the reactor. Finally,
+further detailing of the reactor design has resulted in
+other upward revisions in the estimated salt inventory.
+In all, the salt volume in our present molten salt breeder reactor configuration is about 20 percent greater than reported previously. In
+the aggregate, these changes result in a reactor having a
+breeding ratio of 1.065, fissile material inventory of
+1470 kilograms (including protactinium), annual fuel yield
+3.34 percent, and a useful core life of four years at 0.8 plant
+factor.
+
+A new analysis of the effect of thorium concentration
+on molten salt breeder reactor performance was carried out in terms of the
+new figure of merit and with careful adjustment of
+neutron cross sections to fit each case being considered.
+We find that 12 mole  percent of thorium in the salt is very
+nearly optimum in terms of breeding performance.
+Improved digital computer codes for preparation of the neutron cross sections required in multigroup flux
+calculations and for carrying out multigroup two-dimensional neutron diffusion calculations have been
+put into use in the molten salt reactor program during the last several
+months. They have greatly facilitated the explicit
+two-dimensional calculations which are necessary to
+check the 2 Dimensional synthesis calculations used in the ROD
+optimization code and which are also employed in
+analysis of tentative configurations for a molten-salt
+breeder experiment.
+
+Neutron transport codes have been adapted to calculate also the transport of gamma rays whose sources
+depend in part on the computed neutron fluxes. This
+computational tool allows one to calculate gamma
+heating in complex, multizoned reactor configurations
+without recourse to approximate buildup factor
+methods whose use is questionable in such configurations. The codes were used to obtain heating distributions in the molten salt breeder reactor.
+
+
+Studies on the off-gas system were continued, and a
+preliminary design concept for the volume holdup tank
+is presented. This tank provides about 1 hour holdup for
+all gases leaving the reactor and employs a circulating
+coolant which receives the solid fission products from
+an impaction separator and absorbs the energy from
+these and the decay of the noble gases. The system
+must reject a maximum of 18 Megawatt of decay heat.
+
+The 3 percent Xe distribution calculations were extended to
+include the other noble-gas fission products, of which
+there are over 30 kryptons and xenons. The fluxes of
+these isotopes to the circulating gas bubbles, to the
+graphite, out of the reactor, and to the noble-gas
+removal system were calculated for conditions of the
+graphite coating and the noble-gas stripping system
+which yielded a Xenon-135 poison fraction of 1.27 and
+0.56 percent. The flux of the fission product gas to the
+graphite for the latter case was used to calculate the
+afeeterheat in the graphite after about two years of
+continuous operation at full power. Heat is released at
+the rate of 1 Megawatt 10 minute after shutdown and has
+decayed to less than 0.15 Megawatt 10 hours later. An estimate
+was made of the distribution of about 21 Megawatt of decay
+heat in the off-gas system, including about 9 Megawatt of
+heat from the decay of noble metals.
+
+Studies were started on a bubble generator that
+resembles an inverted venturi and consists of a teardrop
+inside a straight section of pipe. It was found that the
+primary mechanism for generating small bubbles is the
+use of the energy in the turbulent field in the diffuser.
+Coalescence of the small bubbles was found to increase
+as the void fraction in a water stream increased much
+above 0.1 percent; however, it was indicated that higher fluid
+velocities would inhibit coalescence, and this will be checked. A third set of vanes for the vortex type of
+in-line bubble separator was made as a scaled-up version of an earlier model used on another experiment and for
+which there was satisfactory performance. This model
+appears to confirm the earlier experience, but testing
+was just begun at the end of the period.
+
+A request for directive for a molten-salt steam
+generator test stand was sent to the Atomic Energy Council for approval
+and authorization of expenditures. The test stand will
+have a capacity of 3 Megawatt and will consist of a
+molten-salt pump loop with a gas-fired heat source and
+a watersteam loop capable of operating at subcritical
+and supercritical pressures. The test stand will be used
+to gain fundamental engineering data and to investigate
+ideas for generating steam with molten salt.
+
+The sodium fluoroborate test loop was operated
+almost continuously from August 19, 1968, to
+November 4, 1968. During this period work was
+completed on pump cavitation tests, studies were
+continued on methods of controlling salt composition
+and on restrictions in the off-gas line, and initial tests
+were made with a cold finger to investigate cold-zone
+deposition of corrosion products. During November and
+December a test section was installed in the off-gas line
+at the pump bowl outlet to provide pressure and
+temperature profile data and to permit installation of
+various traps and filters, The loop was restarted on
+December 19, 1968, and circulation has continued without interruption through February 1969. Cumulative circulating time is 4600 hours, of which 3600 hours have been with the clean batch of salt. In general, the test
+work has produced no evidence of any problem which
+would preclude the use of Sodium tetrafluoroborate-Sodium Fluoride eutectic as a
+reactor coolant.
+
+Results of the cavitation tests with the clean charge of
+salt appear consistent with the notion that cavitation
+inception for the PK-P pump operating with sodium
+fluoroborate can be correlated on the basis of net
+positive suction head and vapor pressure.
+
+It was concluded that control of the fluoroborate salt
+composition at the eutectic point will be easy, provided
+a suitable method can be established for monitoring the
+salt composition, Four monitoring methods have been
+under consideration. Of these, the one with the most
+promise uses the partial pressure of Boron trifluoride over the salt, as
+indicated by the thermal conductivity of the off-gas
+stream, to calculate the salt composition.
+
+The cause of gas-system restrictions was traced to
+accumulations of salt mist at the pump bowl off-gas
+nozzle and in the control valve. The test data indicate
+that the trouble .can be eliminated by the use of a
+special hot trap at the pump bowl outlet and a
+high-efficiency filter immediately downstream of the
+hot trap.
+
+The conceptual layout of a primary-salt pump for the
+molten-salt breeder reactor has been further defined to
+consider the problems incurred by system thermal
+expansion, coupling the drive motor to the pump,
+pump containment requirements, and shafeet seal oil
+leakage. The plan to obtain the participation of the
+United States pump industry in the Molten-Salt Breeder
+Experiment salt pump program is progressing.
+The specification for the molten salt breeder reactor primary-salt pump was
+revised in the light of project and pump manufacturer
+comments, An evaluation team was selected, and they
+visited pump manufacturers to determine their interest
+and capabilities in the salt pump program. A request for
+proposal is being prepared for submittal to pump
+manufacturers. A request for directive based on preliminary design and cost estimates was prepared for the
+molten salt breeder experiment salt pump test stand, and a drafeet of the system
+design description was also prepared for it. Design work was initiated for a small pump for laboratory applica
+tions. It will be designed for melten salt and liquid
+metal at temperatures to 1400 degrees Fahrenheit, flow capacities to 30
+gallons per minute, and head capability fo 300 feet.
+
+The preliminary investigation of an overall plant
+control system of the single-fluid 1000 Megawatt (electrical)
+molten salt breeder reactor was completed. This investigation included, in
+addition to the studies previously reported, simulations
+of the reactor heat transfer, nuclear kinetics, and a
+reactivity control system. The secondary-salt flow rate
+was altered at a rate proportional to the error in steam
+temperature, as suggested by previous studies, to
+achieve closer control of steam temperature.
+
+The calculation of the decay of neutron density in the
+molten salt breeder reactor following shutdown was extended to investigate
+the effects of the loss of all primary-salt flow. The
+curves included indicate the integral of reactor power
+for the first 5 min afeeter flow interruption for various
+rates and amounts of negative reactivity insertion.
+
+The effect of the photoneutron reaction from beryllium on neutron density following shutdown was
+calculated and found to be negligible.
+
+A dynamic analysis of a steam generator for the
+molten salt breeder reactor was performed at Oak Ridge National Laboratory. A more extensive
+analysis is being carried on under subcontract with the
+University of Illinois at the university’s hybrid computation facility.
+
+Investigation of the stability of resistance thermometers to gross shifts in calibration under conditions
+of prolonged operation at high temperature with
+occasional wide variations in temperature was continued. The testing of two sets of thermometers seemed
+to indicate that cycling between room temperature and
+1500 degrees Fahrenheit, the maximum rated temperature, or extended
+operation at 1500 degrees Fahrenheit would stabilize the thermometers.
+
+Studies were continued with a proposed molten salt breeder reactor fuel salt (Lithium fluoride-Beryllium fluoride-Thorium tetrafluoride-Uranium tetrafluoride, 67.5-20-12-0.5 mole  percent) using the pressurized flow
+system and a small-diameter resistance-heated Hastelloy
+Nickel test section. In the recent experiments care was taken
+to minimize errors due to nonuniform heat loss, faulty
+thermocouple installation, and erratic readout, although
+there remained a possibility that the flow may have been affected by a repair weld near one end of the test
+section. Whereas wall temperature patterns in the
+laminar flow regime were consistent with the expectation of fully developed flow beyond a rather well-defined entrance region, the patterns in the high
+transition and turbulent flow regimes continued to reveal irregularities indicative of a laminar-turbulent transition extending to the outlet of the test section. Variation in the heat flux by a factor of 10 produced
+no significant change in the relative amplitude of the
+irregularities in wall temperature. Comparison of experimentally determined Nusselt moduli near the exit
+of the test section with those predicted by the accepted
+correlations indicated a dependence on Reynolds
+modulus which was greater than would be expected for
+fully developed turbulent flow. A system identical
+geometrically (except for the weld repair) to that used
+in the molten salt breeder reactor fuel salt experiments was operated with
+the salt Hitec.
+Not only were the wall temperature patterns indicative
+of developed turbulent flow, but the Nusselt moduli
+agreed well with accepted correlations. The next phase
+in the experimental program will involve heat transfer
+measurements with the molten salt breeder reactor fuel salt in the same
+apparatus used for the experiments with Hitec.
+
+Design of the facility for investigating mass transfer of oxygen (simulating 3 percent Xenon) from glycerol-water solutions (simulating
+molten salt) to helium has been completed, and
+construction is progressing. It has been decided to use
+the variable-area nozzle method under development by
+Kedl for bubble generation. Tests of a conical screen
+bubble separator are encouraging. A semiempirical
+dispersion criterion for bubbles in a turbulently flowing
+stream has been developed which relates bubble and
+pipe sizes and liquid properties to the Reynolds
+modulus. Application of this criterion to the mass
+transfer experiment has delineated the range of
+Reynolds and Schmidt moduli for which fully dispersed
+bubble flow can be expected and has indicated that
+vertical orientation of the test section will probably be
+necessary to obtain meaningful data in the low
+Reynolds modulus range.
+
+Wetting studies indicated that very Stringent gas purification measures will have to be used in future
+small-scale experiments, such as the in-pile thermal
+convection autoclave, if wetting by the salt and
+concomitant confusion of the experimental results are
+to be avoided. Titanium or uranium metal hot trapping
+at the points of entry of gas streams into the loop are
+indicated as minimum requirements.
+
+Titanium and carbon additions improved the mechanical properties of a base alloy of 12 percent Nickel,
+7 percent Molybdenum, 7 percent Chromium
+Samples of Nickel—12 percent Molybdenum—7 percent Chromium—0.05 percent Carbon containing
+various amounts of titanium were aged for various times
+at 650 and 760 degrees Celsius. Mechanical property tests showed
+that changes took place, but these changes were not
+sufficient to account for the variations noted over this
+temperature range during irradiation. The MC-type
+carbide can be stabilized with higher concentrations of
+Titanium, Hafnium, Niobium, Zirconium, and Yttrium, and postirradiation creep tests
+show that good properties result.
+
+Our corrosion studies continued to affirm the excellent compatibility of Hastelloy Nickel with the lithium-beryllium-fluoride salts. A loop constructed of type 304L stainless steel has a higher, but acceptable,
+corrosion rate and has operated for over six years without difficulty. Our proposed coolant salt, sodium .
+fluoroborate, is somewhat more aggressive, but our thermal convection loops indicate that acceptable corrosion rates are attainable when the water content of the salt is low. We have operated a pumped loop of
+Hastelloy Nickel containing sodium fluoroborate for about
+1500 hours. The salt composition has shown some erratic
+changes in metallic impurities, but operation has proceeded without difficulty.
+
+Molybdenum and graphite seem compatible with fuel
+salts and with bismuth and are potentially useful
+construction materials for a chemical processing plant
+for molten salt breeder reactor’s. The primary remaining problem is fabrication, since both materials are difficult to join.
+Techniques have been developed for brazing both
+materials, but these joining materials may not be
+compatible with bismuth. We are also examining the
+possibility of coating iron-base alloys with molybdenum
+to prevent temperature-gradient mass transfer of the
+iron by the bismuth.
+
+We have procured some of the equipment necessary
+for making welds in Hastelloy Nickel by processes that are
+potentially useful for remote applications. Useful experience has also been gained thoursough the use of some
+automatic welding equipment that utilizes the MIG welding process.
+
+Several plasma-sprayed bearing surfaces on Hastelloy Nickel have received cursory evaluation. The coatings did
+not spall during thermal cycling, but several small flaws
+did develop.
+
+The proposed process flowsheet for a 1000 Megawatt
+(electrical) single-fluid molten salt breeder reactor includes a system for Protactinium-233, isolation based on reductive extraction using
+molten bismuth. The salt is processed at a rate
+equivalent to 1 reactor volume in thoursee days. Calculations using revised equilibrium distribution data show
+the system to be theoretically practical. The flowsheet
+also includes a system for rare-earth removal which
+processes the contents of the reactor on a 30-day cycle.
+Calculations indicate that a cascade of perhaps 24 stages
+will be necessary to effect rare-earth removal with bismuth flow rates as high as 15 gallons per minute. An important variable in this calculation was the fraction of thorium electrolyzed from the salt- as it passed through the
+electrolytic cell unit. A computer code has been
+developed to perform steady-state material balance
+calculations which describe the nuclear, chemical, and
+physical processes occurring in the fuel of an molten salt breeder reactor.
+
+Electrolytic cells will be required for operation of
+reductive extraction systems in an molten salt breeder reactor fuel process-
+ing plant. The cells will be used to oxidize materials in
+bismuth streams effluent from extraction contactors as
+well as for reducing lithium and thorium into bismuth
+streams which are fed to the contactors. Experiments
+have been carried out in quartz cells (4 inch outer diameter) which
+used bismuth pools as the electrodes and 66-34 mole  percent
+Lithium fluoride-Beryllium fluoride as the electrolyte. Current densities up to 4.5
+amps per squared centimeter were observed. The current was linearly
+dependent on applied voltage, which suggests that there
+is essentially no limiting current in the range covered by
+the experiments. Corrosive conditions will exist in the
+vicinity of anodic surfaces, and it is planned that such
+surfaces be protected by a frozen salt layer. A small
+all-metal static cell has been installed for study of this
+method of operation.
+
+Equipment has been installed for semicontinuous
+engineering experiments on reductive extraction. The
+equipment allows purification and countercurrent contact of up to 15 liters each of molten salt and bismuth
+containing thorium through a 0.82-inch inner diameter, 2 feet long column packed with quarter inch right circular cylinders.
+
+Preliminary testing and degassing of the equipment has
+begun, and charging of bismuth and molten salt
+(72-16-12 mole  percent Lithium fluoride-Beryllium fluoride-Thorium tetrafluoride) will have been
+completed soon.
+
+The hydrodynamic properties of contactors are being
+studied in simulated systems using water and mercury.
+Quantitative measurements have been made of flooding
+rates, pressure drop, and dispersed phase (Mercury) holdup.
+Information was also obtained on flow patterns and
+drop sizes. Four packing materials and one baffled
+cartridge have been studied in a 1 inch inner diameter column. A
+mathematical model describing the hydrodynamic
+aspects of a dispersed-flow column was developed.
+
+A system is being built to allow the steady-state
+testing of a variety of electrolytic cell designs. Provision
+is made for circulating up to 0.5 gallons per minute of bismuth and
+0.25 gallons per minute of salt thoursough the cell containment vessel,
+for sampling the inlet and outlet streams from the cell,
+and for visually observing operation of the cell.
+
+An experimental molten-salt still is being installed at
+the molten salt reactor experiment for demonstrating low-pressure, high-
+temperature distillation of 48 liters of irradiated molten salt reactor experiment
+fuel carrier salt. Minor equipment modifications suggested by nonradioactive tests were made. A condensate
+sampler similar to equipment used for addition of Uranium-233
+to the fuel drain tanks was built.
+
+The still was tested by transferring 16 liters of
+nonradioactive salt into the system and distilling about
+2 liters of this salt.
