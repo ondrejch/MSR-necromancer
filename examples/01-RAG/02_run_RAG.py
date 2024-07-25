@@ -1,3 +1,5 @@
+
+
 # Make sure you activate the Python environment first!
 # $ source $HOME/.local/necromancer/bin/activate
 """
@@ -84,7 +86,7 @@ set_global_tokenizer(AutoTokenizer.from_pretrained("NousResearch/Llama-2-7b-chat
 embed_model = HuggingFaceEmbedding(model_name="BAAI/bge-small-en-v1.5")
 
 # Load documents for augmentation
-documents = SimpleDirectoryReader(my_document_dir).load_data()
+documents = SimpleDirectoryReader(my_document_dir, recursive=True).load_data()
 
 # Instantiate vector store index
 index = VectorStoreIndex.from_documents(documents, embed_model=embed_model)
