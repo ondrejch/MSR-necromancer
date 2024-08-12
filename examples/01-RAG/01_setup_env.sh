@@ -13,8 +13,8 @@
 # MIT license
 
 # Set your environment here
-NVCC=/usr/local/cuda-12.5/bin/nvcc
-PYTHON=python3.11
+NVCC=/usr/local/cuda/bin/nvcc
+PYTHON=python3.12
 VENV_DIR=$HOME/.local/necromancer
 
 # Create virtual environment
@@ -27,7 +27,7 @@ source $VENV_DIR/bin/activate
 python -m pip install --upgrade pip
 
 # Install CUDA-enabled llama-cpp-python
-CUDACXX=$NVCC CMAKE_ARGS="-DLLAMA_CUBLAS=on" FORCE_CMAKE=1 pip install llama-cpp-python --no-cache-dir
+CUDACXX=$NVCC CMAKE_ARGS="-DGGML_CUDA=on" FORCE_CMAKE=1 pip install llama-cpp-python --no-cache-dir
 
 # Install llama-index modules
 pip install llama-index
