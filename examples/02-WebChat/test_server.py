@@ -18,8 +18,8 @@ def chat_server():
 
     while True:
         conn, addr = socket_server.accept()
-        user_q:str  = conn.recv(10240).decode()
-        response: str = "Hello from the server!"
+        user_q: str = conn.recv(10240).decode()
+        response: str = user_q + "\nHello from the server!"
         conn.sendall(response.encode('utf-8'))
         conn.close()
 
