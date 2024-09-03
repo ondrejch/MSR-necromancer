@@ -13,7 +13,7 @@ if (!$socket) {
 }
 
 $host = "127.0.0.1";
-$port = "65009";
+$port = "65001";
 
 $result = socket_connect($socket,  $host, $port);
 if ($result === false) {
@@ -24,6 +24,6 @@ $msg = $_POST['messageValue'];
 $result = socket_send($socket, $msg, strlen($msg), 0);
 $result = socket_recv($socket, $response,  16384, 0);
 
-echo $response;
+echo str_replace(["\r\n", "\r", "\n"], "<br/>", $response);
 
 ?>
