@@ -8,6 +8,8 @@ Ondrej Chvala <ochvala@utexas.edu>
 """
 import socket
 from typing import Optional
+import logging
+
 
 from llama_index.core import SimpleDirectoryReader, VectorStoreIndex
 from llama_index.llms.llama_cpp import LlamaCPP
@@ -16,6 +18,11 @@ from llama_index.core import set_global_tokenizer
 from transformers import AutoTokenizer
 from llama_index.embeddings.huggingface import HuggingFaceEmbedding
 # from llama_index.core.types import ChatMessage
+logger = logging.getLogger(__name__)
+logging.basicConfig(format='%(asctime)s %(levelname)-8s %(message)s',
+                    filename='necromancer.log', level=logging.INFO,
+                    datefmt='%Y-%m-%d %H:%M:%S')
+logger.info('Started')
 
 ### Configurable parameters start ###
 
@@ -47,6 +54,7 @@ llm = LlamaCPP(
     messages_to_prompt=messages_to_prompt, completion_to_prompt=completion_to_prompt,
     verbose=False,
 )
+logger.info('Loaded FLLM into memory')
 
 # Instantiate tokenizer for the dataset
 print("*** Loading RAG ***")
@@ -61,13 +69,14 @@ index = VectorStoreIndex.from_documents(documents, embed_model=embed_model)
 
 # Set up the query engine with the document store
 query_engine = index.as_query_engine(llm=llm)
+logger.info('RAG ready')
 
 # System prompt
 my_system_prompt: str = """ \
 You are an expert with deep knowledge in nuclear, mechanical, and chemical engineering. \
 You are also a helpful, respectful and honest assistant. \
 Always answer as helpfully as possible and follow all given instructions. \
-Do not speculate or make up information. 
+Do not speculate or make up information.
 """
 
 
@@ -81,12 +90,17 @@ def chat_server():
 
     max_conns: int = 1
     socket_server.listen(max_conns)
+    logger.info(f'Listening on {host} port {port}')
 
     while True:
         print(f"*** Listening ***")
         conn, addr = socket_server.accept()
         user_q: str = conn.recv(4096).decode()
+        logger.info(f'Q: {user_q}')
+
         response: str = query_engine.query(my_system_prompt + user_q).__str__()
+        logger.info(f'R: {response}')
+
         conn.sendall(response.encode('utf-8'))
         conn.close()
 
