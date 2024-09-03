@@ -1,6 +1,6 @@
 <?php
 /* PHP script that talks with the MSR Necromancer server via BSD sockets
- * Ondrej CHvala  <ochvala@utexas.edu>
+ * Ondrej Chvala  <ochvala@utexas.edu>
  * https://www.php.net/manual/en/ref.sockets.php */
 
 if (!extension_loaded('sockets')) {
@@ -24,6 +24,7 @@ $msg = $_POST['messageValue'];
 $result = socket_send($socket, $msg, strlen($msg), 0);
 $result = socket_recv($socket, $response,  16384, 0);
 
+/* Reformat the response for HTML rendering */
 echo str_replace(["\r\n", "\r", "\n"], "<br/>", $response);
 
 ?>
