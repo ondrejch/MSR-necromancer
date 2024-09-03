@@ -32,6 +32,8 @@ my_model_url: Optional[str] = \
 my_model_path: Optional[str] = None
 
 # How many model layers to put on GPU? The full model is 9GB. Reduce this number if you have less GPU memory.
+# 1 layer is approximately 400 MB of GPU RAM. Setting 64 layers reliably loads the whole model in GPU RAM.
+# An Ubuntu 24.04 laptop with 4 GB GPU RAM (TU117GLM) can only load 4 layers, since about 2 GBs are used by regular desktop loads.
 my_n_gpu_layers: int = 64
 
 # Path to the directory with the historical MSR documents.
@@ -90,7 +92,6 @@ documents = SimpleDirectoryReader(my_document_dir, recursive=True).load_data()
 
 # Instantiate vector store index
 index = VectorStoreIndex.from_documents(documents, embed_model=embed_model)
-
 # Set up the query engine with the document store
 query_engine = index.as_query_engine(llm=llm)
 
